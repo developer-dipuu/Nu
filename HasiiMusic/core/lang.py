@@ -16,6 +16,7 @@ from HasiiMusic import db, logger
 # Supported language codes and their display names
 lang_codes = {
     "en": "English",  # English language
+    "my": "မြန်မာ", # Myanmar Language
 }
 
 
